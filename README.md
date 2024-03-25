@@ -1,4 +1,4 @@
-# Lazy Action Recovery Builder |TWRP / PBRP / OFRP / SHRP|
+# Lazy Recovery Builder
 Compile your first custom recovery via Github Actions - with ldcheck setup.
 
 ## How to Use
