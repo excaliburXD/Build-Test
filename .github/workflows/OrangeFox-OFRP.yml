@@ -1,4 +1,4 @@
-name: OrangeFox-OFRP
+name: OrangeFox [OFRP]
 
 on:
   workflow_dispatch:
